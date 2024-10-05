@@ -1,0 +1,23 @@
+.moviesListSection{
+    margin-top: 2rem;
+}
+.tableHead{
+    background-color: #D3D3D3;
+}
+table, td, th {
+    border: 1px solid black;
+  }
+  
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+  }
+th,td{
+    padding: 0.2rem;
+    padding-left: 1rem;
+}
+tr:hover{
+    background-color: #F5F5F5;
+    cursor: pointer;
+}
